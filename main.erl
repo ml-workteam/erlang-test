@@ -1,5 +1,5 @@
 % this is a comment in Erlang
--module([helloworld]).
+-module([main]).
 -export([start/0]).
 
 start()->
